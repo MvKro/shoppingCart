@@ -1,0 +1,38 @@
+[
+  {
+    "id": 32144,
+    "title": "ABS Cap",
+    "description": "The classic design Bump Cap with ventilation ports is for maximum breathability.",
+    "rate": 3.5,
+    "price": 20,
+    "colors": [
+      "black",
+      "blue",
+      "red"
+    ]
+  },
+  {
+    "id": 32145,
+    "title": "ABS Cap",
+    "description": "The classic design Bump Cap with ventilation ports is for maximum breathability.",
+    "rate": 3.5,
+    "price": 10,
+    "colors": [
+      "black",
+      "blue",
+      "red"
+    ]
+  },
+  {
+    "id": 32146,
+    "title": "ABS Cap",
+    "description": "The classic design Bump Cap with ventilation ports is for maximum breathability.",
+    "rate": 3.5,
+    "price": 30,
+    "colors": [
+      "black",
+      "blue",
+      "red"
+    ]
+  }
+]

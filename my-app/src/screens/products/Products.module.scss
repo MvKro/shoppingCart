@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.cardImg {
+    width: 70%;
+}
+
+.card {
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 12px;
+    box-shadow: 4px 3px 10px lightgray;
+}
