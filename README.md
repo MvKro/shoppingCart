@@ -21,16 +21,18 @@
    
 2. Navigate to the project directory:
 
-  cd project-name
+   cd project-name
 
-3. Install dependencies:
+4. Install dependencies:
 
-  npm install
+   npm install
 
-4. Usage
-  npm start
+5. Usage:
 
-5. Unit Tests
-  npm test
+   npm start
+
+7. Unit Tests:
+
+   npm test
 
 
