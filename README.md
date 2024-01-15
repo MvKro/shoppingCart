@@ -19,18 +19,18 @@
 
    git clone https://github.com/your-username/project-name.git
    
-Navigate to the project directory:
+2. Navigate to the project directory:
 
   cd project-name
 
-Install dependencies:
+3. Install dependencies:
 
   npm install
 
-Usage
+4. Usage
   npm start
 
-Unit Tests
+5. Unit Tests
   npm test
 
 
